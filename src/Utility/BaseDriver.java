@@ -9,6 +9,7 @@ public class BaseDriver {
     static {
 
         driver=new ChromeDriver();
+        driver.manage().window().maximize();//Ekranı maximum yapar.
     }
 
 }
