@@ -1,0 +1,8 @@
+Topic: Keyboard Actions (Keys, Chords, Combinations)
+
+Site: https://the-internet.herokuapp.com/key_presses
+
+Tasks
+1.SendKeys kullanarak alan gibi tek bir tuşa basın
+2.Keys.chord () kullanarak CTRL + A'yı simüle edin.
+3.Akor kullanarak kaydırma + t'yi simüle edin.

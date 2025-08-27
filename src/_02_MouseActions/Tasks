@@ -1,0 +1,16 @@
+Topic: Mouse Actions – Hover, Click, Right Click, Double Click, Drag and Drop
+
+Sites:
+- Hover: http://the-internet.herokuapp.com/hovers
+- Double Click: https://demoqa.com/buttons
+- Right Click: http://the-internet.herokuapp.com/context_menu
+- Click: http://the-internet.herokuapp.com/add_remove_elements/
+- Drag and Drop: http://the-internet.herokuapp.com/drag_and_drop
+
+Tasks
+1.Bir görüntünün üzerine gelin ve kullanıcı bilgilerini gözlemleyin.
+2.Bir düğmeyi çift tıklayın ve geri bildirim mesajını doğrulayın.
+3.Bir kutuya sağ tıklayın ve uyarıyı kullanın.
+4.Eylemleri kullanarak bir düğmeye tıklayın.
+5.Bir öğeyi tıklayın ve basılı tutun,ardından diğerini serbest bırakın.
+6.Bir elemanu sürükleyin ve başka birine bırakın.
